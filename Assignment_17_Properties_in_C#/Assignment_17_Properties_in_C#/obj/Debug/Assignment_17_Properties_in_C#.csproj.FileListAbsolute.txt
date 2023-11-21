@@ -1,0 +1,7 @@
+D:\Mphasis-B2\Day-12\Assignment_17_Properties_in_C#\Assignment_17_Properties_in_C#\bin\Debug\Assignment_17_Properties_in_C#.exe.config
+D:\Mphasis-B2\Day-12\Assignment_17_Properties_in_C#\Assignment_17_Properties_in_C#\bin\Debug\Assignment_17_Properties_in_C#.exe
+D:\Mphasis-B2\Day-12\Assignment_17_Properties_in_C#\Assignment_17_Properties_in_C#\bin\Debug\Assignment_17_Properties_in_C#.pdb
+D:\Mphasis-B2\Day-12\Assignment_17_Properties_in_C#\Assignment_17_Properties_in_C#\obj\Debug\Assignment_17_Properties_in_C#.csproj.AssemblyReference.cache
+D:\Mphasis-B2\Day-12\Assignment_17_Properties_in_C#\Assignment_17_Properties_in_C#\obj\Debug\Assignment_17_Properties_in_C#.csproj.CoreCompileInputs.cache
+D:\Mphasis-B2\Day-12\Assignment_17_Properties_in_C#\Assignment_17_Properties_in_C#\obj\Debug\Assignment_17_Properties_in_C#.exe
+D:\Mphasis-B2\Day-12\Assignment_17_Properties_in_C#\Assignment_17_Properties_in_C#\obj\Debug\Assignment_17_Properties_in_C#.pdb
